@@ -1,5 +1,5 @@
 ---
-title: updating content via forestry
+title: Updating content via forestry
 date: 2022-10-19T04:07:47+00:00
 image: images/post/post-6.jpg
 description: this is meta description
