@@ -1,8 +1,8 @@
 ---
-title: Deploying a React App* to GitHub Pages
+title: npx create-react-app my-app
 date: 2019-10-29T10:07:47.000+06:00
 image: images/post/post-2.jpg
-description: this is meta description
+description: We no longer support global installation of Create React App.
 categories: []
 tags:
 - HTML
@@ -10,7 +10,8 @@ tags:
 type: post
 
 ---
-[https://github.com/gitname/react-gh-pages](https://github.com/gitname/react-gh-pages "https://github.com/gitname/react-gh-pages")  
+    npx create-react-app my-app
+
   
 **If you are facing such issue -** 
 
