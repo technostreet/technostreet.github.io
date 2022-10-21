@@ -14,6 +14,8 @@ type: post
 ---
 # After ubuntu upgrade to 22.04 apache2 was broken
 
+### Error - apache2.service: Control process exited, code=exited, status=139/n/a
+
 ## Solution - 
 
 ### $ cd /etc/apache2/  
