@@ -6,7 +6,25 @@
     <description>Recent content in Categories on TechnoStreet | blog on technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 04:07:47 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 04:07:47 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> PHP</title>
+      <link>https://technostreet.github.io/categories/php/</link>
+      <pubDate>Fri, 21 Oct 2022 04:07:47 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache2</title>
+      <link>https://technostreet.github.io/categories/apache2/</link>
+      <pubDate>Fri, 21 Oct 2022 04:07:47 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/categories/apache2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Python</title>
       <link>https://technostreet.github.io/categories/python/</link>
@@ -19,7 +37,7 @@
     <item>
       <title>Android And Gaming</title>
       <link>https://technostreet.github.io/categories/android-and-gaming/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Mon, 19 Oct 2020 17:07:00 +0000</pubDate>
       
       <guid>https://technostreet.github.io/categories/android-and-gaming/</guid>
       <description></description>
