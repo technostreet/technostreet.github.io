@@ -8,11 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://technostreet.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Testing YAML generated file</title>
+      <link>https://technostreet.github.io/blog/testpost3/</link>
+      <pubDate>Sat, 22 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://technostreet.github.io/blog/testpost3/</guid>
+      <description>How To Use Checklists To Improve Your UX How To Use Checklists To Improve Your UX </description>
+    </item>
+    
+    <item>
       <title>apache2.service: Control process exited, code=exited, status=139/n/a</title>
-      <link>https://technostreet.github.io/blog/post-13/</link>
+      <link>https://technostreet.github.io/blog/apache-broken-after-ubuntu-upgrade-22.04/</link>
       <pubDate>Fri, 21 Oct 2022 04:07:47 +0000</pubDate>
       
-      <guid>https://technostreet.github.io/blog/post-13/</guid>
+      <guid>https://technostreet.github.io/blog/apache-broken-after-ubuntu-upgrade-22.04/</guid>
       <description>After ubuntu upgrade to 22.04 apache2 was broken Error - apache2.</description>
     </item>
     
