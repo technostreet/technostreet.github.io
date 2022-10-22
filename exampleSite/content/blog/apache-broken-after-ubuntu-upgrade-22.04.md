@@ -20,7 +20,7 @@ type: post
 
 ### $ cd /etc/apache2/  
   
-$ l mods-*/php*
+### $ l mods-*/php*
 
 #### The "status=139" error must have something to do with having multiple, conflicting versions of PHP enabled.
 
