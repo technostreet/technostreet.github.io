@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Testing YAML generated file</title>
+      <link>https://technostreet.github.io/blog/testpost4/</link>
+      <pubDate>Sat, 22 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://technostreet.github.io/blog/testpost4/</guid>
+      <description>\ntitle: &amp;ldquo;How To Use Checklists To Improve Your UX&amp;rdquo;\n</description>
+    </item>
+    
+    <item>
       <title>apache2.service: Control process exited, code=exited, status=139/n/a</title>
       <link>https://technostreet.github.io/blog/apache-broken-after-ubuntu-upgrade-22.04/</link>
       <pubDate>Fri, 21 Oct 2022 04:07:47 +0000</pubDate>
