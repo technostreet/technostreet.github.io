@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides and How-To&#39;s on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/guides-and-how-tos/</link>
+    <description>Recent content in Guides and How-To&#39;s on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Oct 2022 11:38:46 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/guides-and-how-tos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install app updates on your Pixel Watch</title>
+      <link>https://technostreet.github.io/article/how-to-install-app-updates-on-your-pixel-watch/</link>
+      <pubDate>Sun, 30 Oct 2022 11:38:46 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/how-to-install-app-updates-on-your-pixel-watch/</guid>
+      <description>How to install app updates on your Pixel Watch The Pixel Watch has its own set of apps that have been installed via the Play Store.</description>
+    </item>
+    
+    <item>
+      <title>How to manage and maintain your Google Passwords like a pro</title>
+      <link>https://technostreet.github.io/article/how-to-manage-and-maintain-your-google-passwords-like-a-pro/</link>
+      <pubDate>Sun, 23 Oct 2022 17:04:41 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/how-to-manage-and-maintain-your-google-passwords-like-a-pro/</guid>
+      <description>How to manage and maintain your Google Passwords like a pro Despite the fact that most people (yes, even you and I) completely disregard the health and wellness of our digital footprint, it doesn’t mean it’s not important.</description>
+    </item>
+    
+  </channel>
+</rss>

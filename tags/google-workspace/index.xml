@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Workspace on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/google-workspace/</link>
+    <description>Recent content in Google Workspace on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2022 06:27:30 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/google-workspace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Workspace Individual accounts now have up to 1TB storage space</title>
+      <link>https://technostreet.github.io/article/google-workspace-individual-accounts-now-have-up-to-1tb-storage-space/</link>
+      <pubDate>Tue, 01 Nov 2022 06:27:30 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/google-workspace-individual-accounts-now-have-up-to-1tb-storage-space/</guid>
+      <description>Google Workspace Individual accounts now have up to 1TB storage space Google has announced that it will soon introduce more features for “Workspace Individual” users, including an increase in storage capacity and advances in email personalisation for all customers.</description>
+    </item>
+    
+  </channel>
+</rss>
