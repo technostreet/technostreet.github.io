@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stacer - Linux System Optimizer and Monitoring</title>
+      <link>https://technostreet.github.io/article/stacer-linux-system-optimizer-and-monitoring/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/stacer-linux-system-optimizer-and-monitoring/</guid>
+      <description>Stacer - Linux System Optimizer and Monitoring Stacer is a system optimizer and monitoring tool for Linux systems.</description>
+    </item>
+    
+  </channel>
+</rss>
