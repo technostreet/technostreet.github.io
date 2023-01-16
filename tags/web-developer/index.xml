@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/web-developer/</link>
+    <description>Recent content in Web Developer on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/web-developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>As a web developer, how you should utilize your downtime?</title>
+      <link>https://technostreet.github.io/article/web-developer-how-you-should-utilize-your-downtime/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/web-developer-how-you-should-utilize-your-downtime/</guid>
+      <description>As a web developer, how you should utilize your downtime? As a web developer, there are many ways to utilize downtime to improve your skills and stay current with industry developments.</description>
+    </item>
+    
+    <item>
+      <title>How to start feelancing as a web developer?</title>
+      <link>https://technostreet.github.io/article/how-start-feelancing-web-developer/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/how-start-feelancing-web-developer/</guid>
+      <description>How to start feelancing as a web developer? Starting as a freelance web developer can be a great way to gain experience, build a portfolio, and earn money on your own terms.</description>
+    </item>
+    
+    <item>
+      <title>What are some good industry blogs and publications for web developers?</title>
+      <link>https://technostreet.github.io/article/what-are-some-good-industry-blogs-and-publications-web-developers/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/what-are-some-good-industry-blogs-and-publications-web-developers/</guid>
+      <description>What are some good industry blogs and publications for web developers?</description>
+    </item>
+    
+  </channel>
+</rss>
