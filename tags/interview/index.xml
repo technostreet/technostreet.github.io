@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/interview/</link>
+    <description>Recent content in Interview on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 25 Drupal interview questions</title>
+      <link>https://technostreet.github.io/article/top-25-drupal-interview-questions/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/top-25-drupal-interview-questions/</guid>
+      <description>Top 25 Drupal interview questions What is Drupal and why is it important?</description>
+    </item>
+    
+    <item>
+      <title>Top 25 Nodejs interview questions</title>
+      <link>https://technostreet.github.io/article/top-25-nodejs-interview-questions/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/top-25-nodejs-interview-questions/</guid>
+      <description>Top 25 Nodejs interview questions What is Node.js and why is it important?</description>
+    </item>
+    
+    <item>
+      <title>Top 25 python interview questions</title>
+      <link>https://technostreet.github.io/article/top-25-python-interview-questions/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/top-25-python-interview-questions/</guid>
+      <description>Top 25 python interview questions What is Python and why is it important?</description>
+    </item>
+    
+  </channel>
+</rss>
