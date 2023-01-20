@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laptops on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/laptops/</link>
+    <description>Recent content in Laptops on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/laptops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which laptop is best for data science?</title>
+      <link>https://technostreet.github.io/article/which-laptop-best-data-science/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/which-laptop-best-data-science/</guid>
+      <description>Which laptop is best for data science? There is no one &#34;</description>
+    </item>
+    
+  </channel>
+</rss>
