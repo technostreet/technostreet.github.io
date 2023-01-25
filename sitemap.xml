@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://technostreet.github.io/tags/amazon/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://technostreet.github.io/article/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +12,9 @@
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/corporate/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/cover-letter-amazon-product-review-writing-sample-review/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/cover-letter-job-solution-architect-drupal/</loc>
@@ -20,10 +26,19 @@
     <loc>https://technostreet.github.io/categories/education/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://technostreet.github.io/article/how-find-high-quality-websites-terms-domain-rank-traffic-and-backlinks/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://technostreet.github.io/tags/job-interviews/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/kafka/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/review-writing/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/seo/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/</loc>
@@ -33,6 +48,15 @@
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/top-100-websites-alexa-ranking-january-252023/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/tools/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/websites/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/what-kafka-what-kafka-producer-and-consumer/</loc>
@@ -57,9 +81,6 @@
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/social-media/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/tags/tools/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/top-10-text-image-generator-api/</loc>
@@ -292,9 +313,6 @@
   </url><url>
     <loc>https://technostreet.github.io/article/who-khashaba-dadasaheb-jadhav/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/tags/amazon/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/email-marketing/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
