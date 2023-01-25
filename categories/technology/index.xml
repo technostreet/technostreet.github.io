@@ -6,7 +6,16 @@
     <description>Recent content in Technology on TechnoStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Kafka? What is Kafka producer and consumer?</title>
+      <link>https://technostreet.github.io/article/what-kafka-what-kafka-producer-and-consumer/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/what-kafka-what-kafka-producer-and-consumer/</guid>
+      <description>What is Kafka? What is Kafka producer and consumer? Apache Kafka is a distributed streaming platform that is used for building real-time data pipelines and streaming applications.</description>
+    </item>
+    
     <item>
       <title>25 helpful tools for social media management</title>
       <link>https://technostreet.github.io/article/25-helpful-tools-social-media-management/</link>
@@ -23,6 +32,15 @@
       
       <guid>https://technostreet.github.io/article/how-build-image-generator-app/</guid>
       <description>How to build image generator app? Building an image generator app involves several steps, including:</description>
+    </item>
+    
+    <item>
+      <title>Top 10 text to image generator API</title>
+      <link>https://technostreet.github.io/article/top-10-text-image-generator-api/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/top-10-text-image-generator-api/</guid>
+      <description>Top 10 text to image generator API Here is the list of top 10 text to image generator API -&amp;nbsp;</description>
     </item>
     
     <item>

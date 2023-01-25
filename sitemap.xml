@@ -2,16 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://technostreet.github.io/article/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/categories/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/corporate/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/cover-letter-job-solution-architect-drupal/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/drupal/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/categories/education/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/job-interviews/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/kafka/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/categories/technology/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/what-kafka-what-kafka-producer-and-consumer/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/why-do-you-think-you-are-good-fit-particular-project/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://technostreet.github.io/article/25-helpful-tools-social-media-management/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/apis/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/app-development/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://technostreet.github.io/article/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/categories/</loc>
+    <loc>https://technostreet.github.io/tags/artificial-intelligent/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/how-build-image-generator-app/</loc>
@@ -20,16 +59,10 @@
     <loc>https://technostreet.github.io/tags/social-media/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://technostreet.github.io/tags/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/categories/technology/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://technostreet.github.io/tags/tools/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/top-10-text-image-generator-api/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/top-25/</loc>
@@ -69,9 +102,6 @@
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/colleges/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/categories/education/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/medical/</loc>
@@ -175,9 +205,6 @@
   </url><url>
     <loc>https://technostreet.github.io/tags/yoga/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/tags/drupal/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/india/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>

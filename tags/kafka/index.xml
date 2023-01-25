@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kafka on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/kafka/</link>
+    <description>Recent content in Kafka on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Kafka? What is Kafka producer and consumer?</title>
+      <link>https://technostreet.github.io/article/what-kafka-what-kafka-producer-and-consumer/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/what-kafka-what-kafka-producer-and-consumer/</guid>
+      <description>What is Kafka? What is Kafka producer and consumer? Apache Kafka is a distributed streaming platform that is used for building real-time data pipelines and streaming applications.</description>
+    </item>
+    
+  </channel>
+</rss>
