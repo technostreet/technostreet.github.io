@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on TechnoStreet</title>
+    <link>https://technostreet.github.io/categories/productivity/</link>
+    <description>Recent content in Productivity on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lets learn - Effective time management</title>
+      <link>https://technostreet.github.io/article/lets-learn-effective-time-management/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/lets-learn-effective-time-management/</guid>
+      <description>Lets learn - Effective time management &#34;Welcome, everyone! Today, we&#39;re going to talk about one of the most important skills we can learn: time management.</description>
+    </item>
+    
+    <item>
+      <title>Motivational story on time management</title>
+      <link>https://technostreet.github.io/article/motivational-story-time-management/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/motivational-story-time-management/</guid>
+      <description>Motivational story on time management Once upon a time, in a far-off land, there lived a young prince named Alexander.</description>
+    </item>
+    
+  </channel>
+</rss>

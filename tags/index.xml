@@ -6,7 +6,16 @@
     <description>Recent content in Tags on TechnoStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time management</title>
+      <link>https://technostreet.github.io/tags/time-management/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/tags/time-management/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Amazon</title>
       <link>https://technostreet.github.io/tags/amazon/</link>
@@ -31,6 +40,15 @@
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://technostreet.github.io/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freelancing</title>
+      <link>https://technostreet.github.io/tags/freelancing/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/tags/freelancing/</guid>
       <description></description>
     </item>
     
@@ -170,15 +188,6 @@
     </item>
     
     <item>
-      <title>Freelancing</title>
-      <link>https://technostreet.github.io/tags/freelancing/</link>
-      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://technostreet.github.io/tags/freelancing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Colleges</title>
       <link>https://technostreet.github.io/tags/colleges/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
@@ -247,15 +256,6 @@
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://technostreet.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time management</title>
-      <link>https://technostreet.github.io/tags/time-management/</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://technostreet.github.io/tags/time-management/</guid>
       <description></description>
     </item>
     
