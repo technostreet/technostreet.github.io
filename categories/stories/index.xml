@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on TechnoStreet</title>
+    <link>https://technostreet.github.io/categories/stories/</link>
+    <description>Recent content in Stories on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/categories/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Motivational story - Believe in yourself, never give up</title>
+      <link>https://technostreet.github.io/article/motivational-story-believe-yourself-never-give/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/motivational-story-believe-yourself-never-give/</guid>
+      <description>Motivational story - Believe in yourself, never give up Once upon a time, in a small village, there was a young girl named Sarah.</description>
+    </item>
+    
+  </channel>
+</rss>
