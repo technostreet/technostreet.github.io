@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/django/</link>
+    <description>Recent content in Django on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to host Django website for free?</title>
+      <link>https://technostreet.github.io/article/how-host-django-website-free/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/how-host-django-website-free/</guid>
+      <description>How to host Django website for free? Here are steps to host a Django website for free:</description>
+    </item>
+    
+  </channel>
+</rss>

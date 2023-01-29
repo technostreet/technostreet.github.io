@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on TechnoStreet</title>
+    <link>https://technostreet.github.io/tags/iot/</link>
+    <description>Recent content in IoT on TechnoStreet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How IoT is used in agriculture? What are the IoT devices used in Agriculture?</title>
+      <link>https://technostreet.github.io/article/how-iot-used-agriculture-what-are-iot-devices-used-agriculture/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/how-iot-used-agriculture-what-are-iot-devices-used-agriculture/</guid>
+      <description>How IoT is used in agriculture? What are the IoT devices used in Agriculture?</description>
+    </item>
+    
+    <item>
+      <title>What is IoT, what are IoT devices, why its important in today&#39;s generation?</title>
+      <link>https://technostreet.github.io/article/what-iot-what-are-iot-devices-why-its-important-todays-generation/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/what-iot-what-are-iot-devices-why-its-important-todays-generation/</guid>
+      <description>What is IoT, what are IoT devices, why its important in today&amp;rsquo;s generation?</description>
+    </item>
+    
+  </channel>
+</rss>

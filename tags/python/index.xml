@@ -6,7 +6,16 @@
     <description>Recent content in Python on TechnoStreet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://technostreet.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to host Django website for free?</title>
+      <link>https://technostreet.github.io/article/how-host-django-website-free/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://technostreet.github.io/article/how-host-django-website-free/</guid>
+      <description>How to host Django website for free? Here are steps to host a Django website for free:</description>
+    </item>
+    
     <item>
       <title>Top 25 Python libraries</title>
       <link>https://technostreet.github.io/article/top-25-python-libraries/</link>
