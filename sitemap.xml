@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://technostreet.github.io/categories/articles/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://technostreet.github.io/article/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/business/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/categories/business/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/categories/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/article/how-start-import-export-business/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/tags/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://technostreet.github.io/categories/articles/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/current-affairs/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/manipur-violence/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/tags/</loc>
-    <lastmod>2023-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/apis/</loc>
@@ -30,9 +39,6 @@
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/best-crm-solutions-lower-cost/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/categories/business/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/business-idea/</loc>
@@ -354,9 +360,6 @@
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/article/web-developer-how-you-should-utilize-your-downtime/</loc>
-    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://technostreet.github.io/tags/business/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://technostreet.github.io/tags/entrepreneurship/</loc>
